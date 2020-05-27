@@ -1,0 +1,32 @@
+* Books on Computation
+A compendium of books that attempts to cover the spectrum of computation.
+
+** History of Computers
+
+*** Engines of Logic
+*** Dream Machines
+*** Turing's Cathedral
+*** Mahoney's Writings
+
+** Logic
+
+*** Principia Mathematica
+
+** Algebra
+
+*** Modern Algebra and the Rise of Mathematical Structures
+
+** Topology
+
+*** Logic via Topology
+
+** General Mathematics
+
+** Languages/Automata
+
+*** Computation: Finite and Infinite Machines
+
+** Complexity
+
+*** Hidden Order
+*** Quantum Computing Since Democritus
